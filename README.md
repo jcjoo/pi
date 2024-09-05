@@ -1,9 +1,6 @@
 # Sales Pro
 ## Estrutura dos sistema
- - Banco de dados
- - Api
- - Aplicativo android
- - Sistema Web
+![Alt text](./diagramas/sistema.drawio.svg)
 
 ### Diagrama de Classe 
 ![Alt text](./diagramas/class.drawio.svg)
