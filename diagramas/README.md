@@ -1,2 +1,2 @@
 Dependencias para visualizar os diagramas:
- - mermaid
+ - draw.io
